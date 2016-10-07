@@ -1,0 +1,5 @@
+bin\Debug\HttpAppReuse.dll
+bin\Debug\HttpAppReuse.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HttpAppReuse.dll
+obj\Debug\HttpAppReuse.pdb

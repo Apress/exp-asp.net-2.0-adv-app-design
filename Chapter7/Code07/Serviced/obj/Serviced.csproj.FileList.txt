@@ -1,0 +1,5 @@
+bin\Debug\Serviced.dll
+bin\Debug\Serviced.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Serviced.dll
+obj\Debug\Serviced.pdb

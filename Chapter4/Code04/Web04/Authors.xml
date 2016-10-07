@@ -1,0 +1,256 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <au_id>172-32-1176</au_id>
+    <au_lname>White</au_lname>
+    <au_fname>Johnson</au_fname>
+    <phone>408 496-7223</phone>
+    <address>10932 Bigge Rd.</address>
+    <city>Menlo Park</city>
+    <state>CA</state>
+    <zip>94025</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>213-46-8915</au_id>
+    <au_lname>Green</au_lname>
+    <au_fname>Marjorie</au_fname>
+    <phone>415 986-7020</phone>
+    <address>309 63rd St. #411</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94618</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>238-95-7766</au_id>
+    <au_lname>Carson</au_lname>
+    <au_fname>Charlie</au_fname>
+    <phone>415 548-7723</phone>
+    <address>589 Darwin Ln.</address>
+    <city>Berkeley</city>
+    <state>CA</state>
+    <zip>94705</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>267-41-2394</au_id>
+    <au_lname>O'Leary</au_lname>
+    <au_fname>Michael</au_fname>
+    <phone>408 286-2428</phone>
+    <address>22 Cleveland Av. #14</address>
+    <city>San Jose</city>
+    <state>CA</state>
+    <zip>95128</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>274-80-9391</au_id>
+    <au_lname>Straight</au_lname>
+    <au_fname>Dean</au_fname>
+    <phone>415 834-2919</phone>
+    <address>5420 College Av.</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94609</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>341-22-1782</au_id>
+    <au_lname>Smith</au_lname>
+    <au_fname>Meander</au_fname>
+    <phone>913 843-0462</phone>
+    <address>10 Mississippi Dr.</address>
+    <city>Lawrence</city>
+    <state>KS</state>
+    <zip>66044</zip>
+    <contract>false</contract>
+  </Table>
+  <Table>
+    <au_id>409-56-7008</au_id>
+    <au_lname>Bennet</au_lname>
+    <au_fname>Abraham</au_fname>
+    <phone>415 658-9932</phone>
+    <address>6223 Bateman St.</address>
+    <city>Berkeley</city>
+    <state>CA</state>
+    <zip>94705</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>427-17-2319</au_id>
+    <au_lname>Dull</au_lname>
+    <au_fname>Ann</au_fname>
+    <phone>415 836-7128</phone>
+    <address>3410 Blonde St.</address>
+    <city>Palo Alto</city>
+    <state>CA</state>
+    <zip>94301</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>472-27-2349</au_id>
+    <au_lname>Gringlesby</au_lname>
+    <au_fname>Burt</au_fname>
+    <phone>707 938-6445</phone>
+    <address>PO Box 792</address>
+    <city>Covelo</city>
+    <state>CA</state>
+    <zip>95428</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>486-29-1786</au_id>
+    <au_lname>Locksley</au_lname>
+    <au_fname>Charlene</au_fname>
+    <phone>415 585-4620</phone>
+    <address>18 Broadway Av.</address>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <zip>94130</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>527-72-3246</au_id>
+    <au_lname>Greene</au_lname>
+    <au_fname>Morningstar</au_fname>
+    <phone>615 297-2723</phone>
+    <address>22 Graybar House Rd.</address>
+    <city>Nashville</city>
+    <state>TN</state>
+    <zip>37215</zip>
+    <contract>false</contract>
+  </Table>
+  <Table>
+    <au_id>648-92-1872</au_id>
+    <au_lname>Blotchet-Halls</au_lname>
+    <au_fname>Reginald</au_fname>
+    <phone>503 745-6402</phone>
+    <address>55 Hillsdale Bl.</address>
+    <city>Corvallis</city>
+    <state>OR</state>
+    <zip>97330</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>672-71-3249</au_id>
+    <au_lname>Yokomoto</au_lname>
+    <au_fname>Akiko</au_fname>
+    <phone>415 935-4228</phone>
+    <address>3 Silver Ct.</address>
+    <city>Walnut Creek</city>
+    <state>CA</state>
+    <zip>94595</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>712-45-1867</au_id>
+    <au_lname>del Castillo</au_lname>
+    <au_fname>Innes</au_fname>
+    <phone>615 996-8275</phone>
+    <address>2286 Cram Pl. #86</address>
+    <city>Ann Arbor</city>
+    <state>MI</state>
+    <zip>48105</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>722-51-5454</au_id>
+    <au_lname>DeFrance</au_lname>
+    <au_fname>Michel</au_fname>
+    <phone>219 547-9982</phone>
+    <address>3 Balding Pl.</address>
+    <city>Gary</city>
+    <state>IN</state>
+    <zip>46403</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>724-08-9931</au_id>
+    <au_lname>Stringer</au_lname>
+    <au_fname>Dirk</au_fname>
+    <phone>415 843-2991</phone>
+    <address>5420 Telegraph Av.</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94609</zip>
+    <contract>false</contract>
+  </Table>
+  <Table>
+    <au_id>724-80-9391</au_id>
+    <au_lname>MacFeather</au_lname>
+    <au_fname>Stearns</au_fname>
+    <phone>415 354-7128</phone>
+    <address>44 Upland Hts.</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94612</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>756-30-7391</au_id>
+    <au_lname>Karsen</au_lname>
+    <au_fname>Livia</au_fname>
+    <phone>415 534-9219</phone>
+    <address>5720 McAuley St.</address>
+    <city>Oakland</city>
+    <state>CA</state>
+    <zip>94609</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>807-91-6654</au_id>
+    <au_lname>Panteley</au_lname>
+    <au_fname>Sylvia</au_fname>
+    <phone>301 946-8853</phone>
+    <address>1956 Arlington Pl.</address>
+    <city>Rockville</city>
+    <state>MD</state>
+    <zip>20853</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>846-92-7186</au_id>
+    <au_lname>Hunter</au_lname>
+    <au_fname>Sheryl</au_fname>
+    <phone>415 836-7128</phone>
+    <address>3410 Blonde St.</address>
+    <city>Palo Alto</city>
+    <state>CA</state>
+    <zip>94301</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>893-72-1158</au_id>
+    <au_lname>McBadden</au_lname>
+    <au_fname>Heather</au_fname>
+    <phone>707 448-4982</phone>
+    <address>301 Putnam</address>
+    <city>Vacaville</city>
+    <state>CA</state>
+    <zip>95688</zip>
+    <contract>false</contract>
+  </Table>
+  <Table>
+    <au_id>899-46-2035</au_id>
+    <au_lname>Ringer</au_lname>
+    <au_fname>Anne</au_fname>
+    <phone>801 826-0752</phone>
+    <address>67 Seventh Av.</address>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+    <zip>84152</zip>
+    <contract>true</contract>
+  </Table>
+  <Table>
+    <au_id>998-72-3567</au_id>
+    <au_lname>Ringer</au_lname>
+    <au_fname>Albert</au_fname>
+    <phone>801 826-0752</phone>
+    <address>67 Seventh Av.</address>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+    <zip>84152</zip>
+    <contract>true</contract>
+  </Table>
+</NewDataSet>

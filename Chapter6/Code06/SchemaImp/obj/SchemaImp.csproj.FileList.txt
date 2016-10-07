@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SchemaImp.Properties.Resources.resources
+obj\Debug\SchemaImp.csproj.GenerateResource.Cache
+obj\Debug\SchemaImp.dll
+obj\Debug\SchemaImp.pdb
+.\bin\Debug\SchemaImp.dll
+.\bin\Debug\SchemaImp.pdb

@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Server.Properties.Resources.resources
+obj\Debug\Server.csproj.GenerateResource.Cache
+obj\Debug\Server.dll
+.\bin\Debug\Server.dll
+.\bin\Debug\Server.pdb
+obj\Debug\Server.pdb

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:suds="http://www.w3.org/2000/wsdl/suds" xmlns:ns3="http://schemas.microsoft.com/clr/ns/System" xmlns:ns2="http://schemas.microsoft.com/clr/nsassem/ESDemo.JITA/Serviced%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3De46b361384c3aa00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.microsoft.com/clr/nsassem/ESDemo/Serviced%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3De46b361384c3aa00" xmlns:ns1="http://schemas.microsoft.com/clr/nsassem/System.EnterpriseServices/System.EnterpriseServices%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:ns0="http://schemas.microsoft.com/clr/nsassem/ESDemo/Serviced%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3De46b361384c3aa00" name="JITA" targetNamespace="http://schemas.microsoft.com/clr/nsassem/ESDemo/Serviced%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3De46b361384c3aa00" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types />
+  <wsdl:message name="JITA.GetCreateStampInput" />
+  <wsdl:message name="JITA.GetCreateStampOutput">
+    <wsdl:part name="return" type="xsd:dateTime" />
+  </wsdl:message>
+  <wsdl:portType name="JITAPortType">
+    <wsdl:operation name="GetCreateStamp">
+      <wsdl:input name="GetCreateStampRequest" message="ns0:JITA.GetCreateStampInput" />
+      <wsdl:output name="GetCreateStampResponse" message="ns0:JITA.GetCreateStampOutput" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="JITABinding" type="ns0:JITAPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <suds:class type="ns0:JITA" rootType="ServicedComponent">
+    </suds:class>
+    <wsdl:operation name="GetCreateStamp">
+      <soap:operation soapAction="http://schemas.microsoft.com/clr/nsassem/ESDemo.JITA/Serviced#GetCreateStamp" />
+      <suds:method attributes="public" />
+      <wsdl:input name="GetCreateStampRequest">
+        <soap:body use="encoded" namespace="http://schemas.microsoft.com/clr/nsassem/ESDemo.JITA/Serviced" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="GetCreateStampResponse">
+        <soap:body use="encoded" namespace="http://schemas.microsoft.com/clr/nsassem/ESDemo.JITA/Serviced" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="JITAService">
+    <wsdl:port name="JITAPort" binding="ns0:JITABinding">
+      <soap:address location="http://localhost:80/ESDemoSOAP/esdemo.jita.soap" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

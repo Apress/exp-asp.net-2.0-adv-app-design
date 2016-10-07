@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\Web10\", "Web10\", "{4CACCAE8-23C3-4301-B90E-15CA60B0094E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/Web10"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Work\ExtremeASPNet\Text\Part3\Chapter10\Draft2\Code10\Web10\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web10\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web10"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Work\ExtremeASPNet\Text\Part3\Chapter10\Draft2\Code10\Web10\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web10\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1288"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CACCAE8-23C3-4301-B90E-15CA60B0094E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{4CACCAE8-23C3-4301-B90E-15CA60B0094E}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

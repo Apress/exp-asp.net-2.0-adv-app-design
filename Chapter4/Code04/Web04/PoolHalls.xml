@@ -1,0 +1,948 @@
+<?xml version="1.0" standalone="yes"?>
+<PoolHalls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Cities>
+        <City>New York</City>
+        <City>Los Angeles</City>
+        <City>Chicago</City>
+        <City>Houston</City>
+        <City>Philadelphia</City>
+        <City>Minneapolis</City>
+    </Cities>
+<PoolHall>
+    <Name>Amsterdam Billiard Club</Name>
+    <Address>210 E 86th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-570-4545</Phone>
+    <id>1</id>
+</PoolHall>
+ 
+  <PoolHall>
+    <Name>Bernardos Billar and Cafeteria</Name>
+    <Address>564 W 188th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-543-9046</Phone>
+    <id>2</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Billiard Club</Name>
+    <Address>220 W 19th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-206-7665</Phone>
+    <id>3</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Broadway Billiard Cafe</Name>
+    <Address>10 E 21st St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-388-1582</Phone>
+    <id>4</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Buena Vista</Name>
+    <Address>2376 Amsterdam Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-928-3976</Phone>
+    <id>5</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>City Hall Billiard Club</Name>
+    <Address>150 Nassau St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-964-7083</Phone>
+    <id>6</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Corner Billiards</Name>
+    <Address>85 4th Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-995-1314</Phone>
+    <id>7</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Eastside Billiard Club</Name>
+    <Address>163 E 86th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-831-7665</Phone>
+    <id>8</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Fat Cat Billiards</Name>
+    <Address>75 Christopher St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-675-6056</Phone>
+    <id>9</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Guys and Gals Billiard Parlor</Name>
+    <Address>500 W 207th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-567-9279</Phone>
+    <id>10</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Harlem Star Billiards</Name>
+    <Address>209 W 125th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-531-7665</Phone>
+    <id>11</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Inwood Heights Billiards</Name>
+    <Address>3849 10th Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-304-3656</Phone>
+    <id>12</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Klipper Klub</Name>
+    <Address>1501 3rd Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-924-5151</Phone>
+    <id>13</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Latin Brothers</Name>
+    <Address>1616 Amsterdam Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-690-2400</Phone>
+    <id>14</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Le Q Billiards</Name>
+    <Address>36 E 12th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-995-8512</Phone>
+    <id>15</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Mammoth Billiard 26</Name>
+    <Address>114 W 26th St Fl 1</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-675-2626</Phone>
+    <id>16</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Midtown Billiards</Name>
+    <Address>371 W 34th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-564-1071</Phone>
+    <id>17</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>More Balls Than Most Inc</Name>
+    <Address>26 W 17th St # 301</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-691-9660</Phone>
+    <id>18</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Olympia Recreation Ctr Inc</Name>
+    <Address>55 W 125th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-722-9522</Phone>
+    <id>19</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Post Billiards Cafe</Name>
+    <Address>154 Post Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-569-1840</Phone>
+    <id>20</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Slate</Name>
+    <Address>54 W 21st St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-989-0096</Phone>
+    <id>21</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>SoHo Billiard Sport Center</Name>
+    <Address>298 Mulberry St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-925-3753</Phone>
+    <id>22</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Soryano Co</Name>
+    <Address>450 Audubon Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-923-8737</Phone>
+    <id>23</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Sport Club Umex</Name>
+    <Address>1620 Lexington Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-828-0528</Phone>
+    <id>24</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>West Side Billiard Club</Name>
+    <Address>601 W 50th St</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-246-1060</Phone>
+    <id>25</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Yamasa Sports and Billards Corp</Name>
+    <Address>2153 Amsterdam Ave</Address>
+    <City>New York</City>
+    <State>NY</State>
+    <Phone>212-543-1334</Phone>
+    <id>26</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Vermont Billiard and Pool Hall</Name>
+    <Address>852 N Vermont Ave</Address>
+    <City>Los Angeles</City>
+    <State>CA</State>
+    <Phone>323-662-1875</Phone>
+    <id>27</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Wayne Billiard</Name>
+    <Address>244 S Oxford Ave</Address>
+    <City>Los Angeles</City>
+    <State>CA</State>
+    <Phone>213-383-7686</Phone>
+    <id>28</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Ye Billiard Den</Name>
+    <Address>3727 S Flower St</Address>
+    <City>Los Angeles</City>
+    <State>CA</State>
+    <Phone>213-748-5665</Phone>
+    <id>29</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Young Billiard</Name>
+    <Address>132 S Vermont Ave</Address>
+    <City>Los Angeles</City>
+    <State>CA</State>
+    <Phone>213-387-9691</Phone>
+    <id>30</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Young Dong Billiards</Name>
+    <Address>555 S Western Ave</Address>
+    <City>Los Angeles</City>
+    <State>CA</State>
+    <Phone>213-368-0479</Phone>
+    <id>31</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>1,000 Billiards</Name>
+    <Address>5588 N Lincoln Ave 2F</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-506-8966</Phone>
+    <id>32</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>A J Billiard Parlor</Name>
+    <Address>1106 W Bryn Mawr Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-275-9455</Phone>
+    <id>33</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Campus Room</Name>
+    <Address>6550 N. Sheridan Rd.</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-761-8960</Phone>
+    <id>34</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Champion Billiards</Name>
+    <Address>4746 N. Central Park Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-539-5514</Phone>
+    <id>35</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Chicago Billiard Cafe</Name>
+    <Address>5935 W Irving Park Rd</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-545-5102</Phone>
+    <id>36</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Chris's Billiards</Name>
+    <Address>4637 N. Milwaukee Ave.</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-286-4714</Phone>
+    <id>37</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>City Pool Hall</Name>
+    <Address>640 W. Hubbard Street</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>312-491-9690</Phone>
+    <id>38</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Corner Pocket</Name>
+    <Address>2610 N Halsted St</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-281-0050</Phone>
+    <id>39</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Cue-Em-Up</Name>
+    <Address>5658 W Diversey Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-237-2898</Phone>
+    <id>40</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Dave and Busters</Name>
+    <Address>1024 N. Clark St.</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>312-943-5151</Phone>
+    <id>41</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Edison Park Bowl and Billiards</Name>
+    <Address>6713 N Olmsted</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-631-2555</Phone>
+    <id>42</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Family Billiards</Name>
+    <Address>8130 S Ashland Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-874-7768</Phone>
+    <id>43</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Lakeview Billiard Cafe</Name>
+    <Address>3449 North Lincoln Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-975-0505</Phone>
+    <id>44</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Lincoln Billiard</Name>
+    <Address>5526 N Lincoln Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-728-1553</Phone>
+    <id>45</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Mardon Billiard Club</Name>
+    <Address>2115 W Chicago Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-252-7398</Phone>
+    <id>46</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Marie's Golden Cue</Name>
+    <Address>3241 W Montrose Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-478-2555</Phone>
+    <id>47</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Marzano's Miami Bowl</Name>
+    <Address>5023 S Archer Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-585-8787</Phone>
+    <id>48</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Nick's Billiard Academy</Name>
+    <Address>4445 N Pulaski Rd</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-583-2011</Phone>
+    <id>49</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Northcenter Recreation</Name>
+    <Address>4017 N Lincoln Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-478-2555</Phone>
+    <id>50</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Par-Do Billiards Co</Name>
+    <Address>3822 W Lawrence Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-463-5533</Phone>
+    <id>51</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Philosofur's</Name>
+    <Address>2833 N Sheffield Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-477-3661</Phone>
+    <id>52</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Pioneer Lounge and Billiards</Name>
+    <Address>1535 N Pulaski Rd</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-227-2687</Phone>
+    <id>53</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Pro Billiards</Name>
+    <Address>4909 N. Kedzie Ave.</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-588-1253</Phone>
+    <id>54</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Ross Billiard's</Name>
+    <Address>3660 S Indiana Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-536-6161</Phone>
+    <id>55</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Silver Cue Billiard</Name>
+    <Address>6255 N Mccormick Rd</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-267-7444</Phone>
+    <id>56</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Sirito's Billiards</Name>
+    <Address>4238 W Fullerton Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-276-2381</Phone>
+    <id>57</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Southport Lanes and Billiards</Name>
+    <Address>3325 N Southport Ave.</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-472-1601</Phone>
+    <id>58</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>St Paul Billiards</Name>
+    <Address>1415 W Fullerton Ave.</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-472-9494</Phone>
+    <id>59</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Tony's Billiard Parlor</Name>
+    <Address>1007 W Leland Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-769-6668</Phone>
+    <id>60</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Umgee Billiards</Name>
+    <Address>3507 W Lawrence Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-478-6074</Phone>
+    <id>61</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>University of Illinois Chicago</Name>
+    <Address>750 S Halsted St</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>312-413-5170</Phone>
+    <id>62</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Waveland Bowl Inc</Name>
+    <Address>3700 N Western Ave</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-472-5902</Phone>
+    <id>63</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Will's Pool Hall</Name>
+    <Address>344 E 115th St</Address>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Phone>773-928-3800</Phone>
+    <id>64</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Athletics Sports Bar</Name>
+    <Address>10302 Harwin Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-270-1265</Phone>
+    <id>65</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Bank Shot Game Room</Name>
+    <Address>1207 W 34th St</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-864-2273</Phone>
+    <id>66</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Barney's Billiard Salon</Name>
+    <Address>1942 FM 1960 Rd W</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-537-1416</Phone>
+    <id>67</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Bida Tudo Gameroom</Name>
+    <Address>2117 Chenevert St # D</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-654-9900</Phone>
+    <id>68</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Billares Los Rios</Name>
+    <Address>1317 Gessner Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-984-9568</Phone>
+    <id>69</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Bingle Billiards</Name>
+    <Address>8226 Long Point Rd</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-984-0284</Phone>
+    <id>70</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Bogie's Billiards and Games</Name>
+    <Address>3040 FM 1960 Rd # 101</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-821-4544</Phone>
+    <id>71</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Boone Bida</Name>
+    <Address>4335 Baynard Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-568-5825</Phone>
+    <id>72</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Breakers Bar and Billiards</Name>
+    <Address>4329 Highway 6 N</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-856-8227</Phone>
+    <id>73</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Carrington's Billards</Name>
+    <Address>9585 Main St</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-669-0804</Phone>
+    <id>74</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Chatt and Paan</Name>
+    <Address>6121 Hillcroft St</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-774-0274</Phone>
+    <id>75</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Clicks Billiards</Name>
+    <Address>13380 Northwest Fwy</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-895-9992</Phone>
+    <id>76</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Cornbread Billiards and Bar Inc</Name>
+    <Address>10222 Westheimer Rd</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-266-4141</Phone>
+    <id>77</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Cornbread's Billiard Parlor</Name>
+    <Address>1029 Gessner Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-984-1414</Phone>
+    <id>78</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Cue and Cushion</Name>
+    <Address>510 Shepherd Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-861-7644</Phone>
+    <id>79</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Dave and Buster's</Name>
+    <Address>6010 Richmond Ave</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-952-2233</Phone>
+    <id>80</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Fat Freddies Family Pool Hall</Name>
+    <Address>5112 Antoine Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-683-7042</Phone>
+    <id>81</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Hiep Gameroom</Name>
+    <Address>2110 Jefferson St # 115</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-225-1952</Phone>
+    <id>82</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Hot Shot Bar and Billiard</Name>
+    <Address>12909 Westheimer Rd</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-496-9999</Phone>
+    <id>83</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Houston Family Game Room</Name>
+    <Address>11130 Beechnut St # A</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-495-2583</Phone>
+    <id>84</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Jackrabbit Slim's</Name>
+    <Address>5810 Highway 6 N</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-345-6767</Phone>
+    <id>85</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Jensen Domino Shack</Name>
+    <Address>2001 Jensen Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-222-0337</Phone>
+    <id>86</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Mala Noche</Name>
+    <Address>12802 Veterans Memorial Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-397-7665</Phone>
+    <id>87</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Minh Chau Bida</Name>
+    <Address>10733 Kingspoint Rd</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-947-2201</Phone>
+    <id>88</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Nguyen Trai Billiards</Name>
+    <Address>11232 Veterans Memorial Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-847-2346</Phone>
+    <id>89</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Richey 8-Ball Family Pool Hall</Name>
+    <Address>2719 S Richey St</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-944-5496</Phone>
+    <id>90</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Rita's</Name>
+    <Address>3627 Hillcroft St</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-974-0734</Phone>
+    <id>91</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Rose Country Club</Name>
+    <Address>13802 Homestead Road</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-590-1954</Phone>
+    <id>92</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Seven Star Billiard</Name>
+    <Address>10001 Long Point Rd</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-464-3047</Phone>
+    <id>93</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Shooters</Name>
+    <Address>6306 Richmond Ave</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-952-9628</Phone>
+    <id>94</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Slick Willies Family Pool Hall</Name>
+    <Address>8503 Gulf Fwy # K</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-943-2917</Phone>
+    <id>95</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Squeeze Play</Name>
+    <Address>900 FM 1960 Rd W</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-893-4590</Phone>
+    <id>96</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Sticks Billiards</Name>
+    <Address>5637 Richmond Ave</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-780-7867</Phone>
+    <id>97</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Sticks Billiards</Name>
+    <Address>9890 Southwest Fwy</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-981-8393</Phone>
+    <id>98</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Thanh Billiard and Game Room</Name>
+    <Address>6806 Long Point Rd</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-681-4576</Phone>
+    <id>99</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Tony's Pocket Billiards</Name>
+    <Address>5425 W Orem Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-433-0976</Phone>
+    <id>100</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Vegas Game Room</Name>
+    <Address>5720 Fondren Rd</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-978-7171</Phone>
+    <id>101</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Vietnam Bida</Name>
+    <Address>12320 Bellaire Blvd # B9</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-561-8040</Phone>
+    <id>102</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Waugh Drive Pool Hall</Name>
+    <Address>2202 Waugh Dr</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>713-528-8611</Phone>
+    <id>103</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Yorkshire Pub</Name>
+    <Address>17550 West Little York Road</Address>
+    <City>Houston</City>
+    <State>TX</State>
+    <Phone>281-345-4228</Phone>
+    <id>104</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Ballard's Billiard Ctr</Name>
+    <Address>2004 Cecil B Moore Ave</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-765-8334</Phone>
+    <id>105</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Ballbusters</Name>
+    <Address>3265 S 61st St</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-727-2550</Phone>
+    <id>106</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Broad Street Billiards</Name>
+    <Address>2256 N Broad St</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-236-1612</Phone>
+    <id>107</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Country Club Billiards</Name>
+    <Address>9177 Roosevelt Blvd</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-677-6726</Phone>
+    <id>108</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Pablo's Billiards</Name>
+    <Address>228 S 60th St</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-747-1165</Phone>
+    <id>109</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>River City Billiards</Name>
+    <Address>4258 Main St</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-482-7410</Phone>
+    <id>110</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Roosevelt Mall Billiards Club</Name>
+    <Address>2329 Cottman Ave</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-338-8430</Phone>
+    <id>111</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>South Philly Billiards</Name>
+    <Address>2019 S Juniper St</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-339-1970</Phone>
+    <id>112</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Tacony Palmyra Billiard Club</Name>
+    <Address>6201 Keystone St</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-338-4733</Phone>
+    <id>113</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Vuong Viet Pool Hall</Name>
+    <Address>2464 Kensington Ave</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-423-8380</Phone>
+    <id>114</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Willie Musconi Golden Cue</Name>
+    <Address>2027 W Oregon Ave</Address>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Phone>215-462-0194</Phone>
+    <id>115</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>City Billiards Bar and Café</Name>
+    <Address>25 N. 4th St.</Address>
+    <City>Minneapolis</City>
+    <State>MN</State>
+    <Phone>612-338-2255</Phone>
+    <id>116</id>
+  </PoolHall>
+  <PoolHall>
+    <Name>Fat Boy Billiards</Name>
+    <Address>1920 Central Ave NE</Address>
+    <City>Minneapolis</City>
+    <State>MN</State>
+    <Phone>612-789-9750</Phone>
+    <id>117</id>
+  </PoolHall>
+</PoolHalls>

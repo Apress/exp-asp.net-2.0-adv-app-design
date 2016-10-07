@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\Web02\", "Web02\", "{A22E5F26-9475-4FFD-8F70-789AB732BD64}"
+	ProjectSection(WebsiteProperties) = preProject
+		ProjectReferences = "{A190F232-4B44-4F12-8D9C-76D655EFD68A}|HttpAppReuse.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Web02"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Work\ExtremeASPNet\Text\Part1\Chapter2\Draft2\Code02\Web02\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web02\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web02"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Work\ExtremeASPNet\Text\Part1\Chapter2\Draft2\Code02\Web02\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web02\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1414"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpAppReuse", "HttpAppReuse\HttpAppReuse.csproj", "{A190F232-4B44-4F12-8D9C-76D655EFD68A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Debug|.NET.ActiveCfg = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Debug|.NET.Build.0 = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Release|.NET.ActiveCfg = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Release|.NET.Build.0 = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{A22E5F26-9475-4FFD-8F70-789AB732BD64}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Release|.NET.ActiveCfg = Release|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A190F232-4B44-4F12-8D9C-76D655EFD68A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:suds="http://www.w3.org/2000/wsdl/suds" xmlns:ns3="http://schemas.microsoft.com/clr/nsassem/System.Data/System.Data%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089" xmlns:ns2="http://schemas.microsoft.com/clr/nsassem/ESDemo.Poolable/Serviced%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3De46b361384c3aa00" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.microsoft.com/clr/nsassem/ESDemo/Serviced%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3De46b361384c3aa00" xmlns:ns4="http://schemas.microsoft.com/clr/ns/System" xmlns:ns1="http://schemas.microsoft.com/clr/nsassem/System.EnterpriseServices/System.EnterpriseServices%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:ns0="http://schemas.microsoft.com/clr/nsassem/ESDemo/Serviced%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3De46b361384c3aa00" name="Poolable" targetNamespace="http://schemas.microsoft.com/clr/nsassem/ESDemo/Serviced%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3De46b361384c3aa00" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types />
+  <wsdl:message name="Poolable.GetSomeDataInput">
+    <wsdl:part name="sql" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="Poolable.GetSomeDataOutput">
+    <wsdl:part name="return" type="ns3:DataSet" />
+  </wsdl:message>
+  <wsdl:portType name="PoolablePortType">
+    <wsdl:operation name="GetSomeData" parameterOrder="sql">
+      <wsdl:input name="GetSomeDataRequest" message="ns0:Poolable.GetSomeDataInput" />
+      <wsdl:output name="GetSomeDataResponse" message="ns0:Poolable.GetSomeDataOutput" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PoolableBinding" type="ns0:PoolablePortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <suds:class type="ns0:Poolable" rootType="ServicedComponent">
+    </suds:class>
+    <wsdl:operation name="GetSomeData">
+      <soap:operation soapAction="http://schemas.microsoft.com/clr/nsassem/ESDemo.Poolable/Serviced#GetSomeData" />
+      <suds:method attributes="public" />
+      <wsdl:input name="GetSomeDataRequest">
+        <soap:body use="encoded" namespace="http://schemas.microsoft.com/clr/nsassem/ESDemo.Poolable/Serviced" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="GetSomeDataResponse">
+        <soap:body use="encoded" namespace="http://schemas.microsoft.com/clr/nsassem/ESDemo.Poolable/Serviced" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PoolableService">
+    <wsdl:port name="PoolablePort" binding="ns0:PoolableBinding">
+      <soap:address location="http://localhost:80/ESDemoSOAP/esdemo.poolable.soap" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

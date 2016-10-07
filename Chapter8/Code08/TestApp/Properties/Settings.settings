@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestApp.Properties" GeneratedClassName="Settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="TestApp_Proxies_PoolableService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:80/ESDemoSOAP/esdemo.poolable.soap</Value>
+    </Setting>
+    <Setting Name="TestApp_localhost_PoolableService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:80/ESDemoSOAP/esdemo.poolable.soap</Value>
+    </Setting>
+    <Setting Name="TestApp_Proxies_JITAService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:80/ESDemoSOAP/esdemo.jita.soap</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

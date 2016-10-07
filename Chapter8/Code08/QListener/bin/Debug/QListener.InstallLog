@@ -1,0 +1,108 @@
+﻿Installing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe assembly.
+Committing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Installing service MSMQ Queue Listener...
+Service MSMQ Queue Listener has been successfully installed.
+Creating EventLog source MSMQ Queue Listener in log Application...
+Committing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Uninstalling assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Removing EventLog source MSMQ Queue Listener.
+Service MSMQ Queue Listener is being removed from the system...
+Service MSMQ Queue Listener was successfully removed from the system.
+Installing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Installing service MSMQ Queue Listener...
+Service MSMQ Queue Listener has been successfully installed.
+Creating EventLog source MSMQ Queue Listener in log Application...
+Committing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Uninstalling assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Removing EventLog source MSMQ Queue Listener.
+Service MSMQ Queue Listener is being removed from the system...
+Service MSMQ Queue Listener was successfully removed from the system.
+Installing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Installing service MSMQ Queue Listener...
+Service MSMQ Queue Listener has been successfully installed.
+Creating EventLog source MSMQ Queue Listener in log Application...
+Committing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Uninstalling assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Removing EventLog source MSMQ Queue Listener.
+Service MSMQ Queue Listener is being removed from the system...
+Service MSMQ Queue Listener was successfully removed from the system.
+Installing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Installing service MSMQ Queue Listener...
+Service MSMQ Queue Listener has been successfully installed.
+Creating EventLog source MSMQ Queue Listener in log Application...
+Committing assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   i = 
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Uninstalling assembly 'C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.exe
+   logfile = C:\Work\ExtremeASPNet\CodeProjects\QListener\QListener\bin\Debug\QListener.InstallLog
+Removing EventLog source MSMQ Queue Listener.
+Service MSMQ Queue Listener is being removed from the system...
+Service MSMQ Queue Listener was successfully removed from the system.
+Attempt to stop service MSMQ Queue Listener.

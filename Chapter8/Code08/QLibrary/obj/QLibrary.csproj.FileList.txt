@@ -1,0 +1,5 @@
+bin\Debug\QLibrary.dll
+bin\Debug\QLibrary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QLibrary.dll
+obj\Debug\QLibrary.pdb

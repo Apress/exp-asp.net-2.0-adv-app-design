@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Orders>    
+    <Order OrderDate="5/15/2005" CustomerID="1">
+        <OrderItem ItemId="1" Quantity="21" />
+        <OrderItem ItemId="2" Quantity="21" />
+    </Order>
+    <Order OrderDate="5/16/2005" CustomerID="2">
+        <OrderItem ItemId="1" Quantity="21" />
+        <OrderItem ItemId="2" Quantity="21" />
+    </Order>
+    <Order OrderDate="5/17/2005" CustomerID="3">
+        <OrderItem ItemId="1" Quantity="21" />
+        <OrderItem ItemId="2" Quantity="21" />
+    </Order>
+</Orders>

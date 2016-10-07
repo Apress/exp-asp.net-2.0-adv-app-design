@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\QListener.exe
+bin\Debug\QListener.pdb
+obj\Debug\QListener.exe
+obj\Debug\QListener.pdb
+bin\Debug\\QLibrary.dll
+bin\Debug\\QLibrary.pdb

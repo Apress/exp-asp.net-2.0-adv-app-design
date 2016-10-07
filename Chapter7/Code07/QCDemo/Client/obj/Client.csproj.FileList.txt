@@ -1,0 +1,9 @@
+obj\Debug\Client.exe
+obj\Debug\Client.pdb
+.\bin\Debug\Client.exe
+.\bin\Debug\Client.pdb
+.\bin\Debug\\Server.dll
+.\bin\Debug\\Server.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Client.Properties.Resources.resources
+obj\Debug\Client.csproj.GenerateResource.Cache

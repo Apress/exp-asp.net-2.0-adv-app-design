@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\Web11\", "Web11\", "{A8260F5D-F1A0-4BF9-B301-749C5979349D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/Web11"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Work\ExtremeASPNet\Text\Part3\Chapter11\Draft2\Code11\Web11\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web11\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web11"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Work\ExtremeASPNet\Text\Part3\Chapter11\Draft2\Code11\Web11\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web11\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1226"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8260F5D-F1A0-4BF9-B301-749C5979349D}.Debug|.NET.ActiveCfg = Debug|.NET
+		{A8260F5D-F1A0-4BF9-B301-749C5979349D}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

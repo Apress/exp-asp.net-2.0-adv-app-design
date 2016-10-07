@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\Web03\", "Web03\", "{E6F86263-5760-4374-9AB4-35563588F95A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/Web03"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Work\ExtremeASPNet\Text\Part1\Chapter3\Draft2\Code03\Web03\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web03\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web03"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Work\ExtremeASPNet\Text\Part1\Chapter3\Draft2\Code03\Web03\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web03\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1563"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F86263-5760-4374-9AB4-35563588F95A}.Debug|.NET.ActiveCfg = Debug|.NET
+		{E6F86263-5760-4374-9AB4-35563588F95A}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
